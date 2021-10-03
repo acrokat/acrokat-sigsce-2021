@@ -1,2 +1,3 @@
-# acrokat-universe-2021
-A repository for the GitHub Classroom talk at Universe 2021
+# Assignments
+- Provide students with their own repostiories to work independently and maintain a record of their work
+
