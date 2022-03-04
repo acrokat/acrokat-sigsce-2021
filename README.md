@@ -9,7 +9,7 @@
 - Configure custom tests to automatically run **free** on GitHUb Actions
 - Easily download a CSV of student grades
 
-## 💻 Editor integrations
+## 💻  Editor integrations
 - Make it even simpler to get your students set up
 
 # ✨ Tips and tricks
