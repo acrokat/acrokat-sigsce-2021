@@ -12,3 +12,9 @@
 ## 💻 Editor integrations
 - Make it even simpler to get your students set up
 
+# Tips and tricks
+- Introduce one Git concept at a time as needed if your students are unfamiliar with Git
+- Using one org forever gets complicated! Stick to one per class ideally
+- Leverage the community at education.github.community or Global Campus Discussions
+
+
